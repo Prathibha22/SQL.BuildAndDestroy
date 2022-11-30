@@ -1,0 +1,2 @@
+--create table students(StudentName varchar(50),Address varchar(50),City varchar(50),PostalCode varchar(50),Country varchar(50));
+-- insert into students(StudentName,Address,  City, PostalCode, Country) values ('Jane Doe','57 Union St','Glasgow','Scotland','G13RB');

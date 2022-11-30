@@ -1,0 +1,1 @@
+--select * from students where (City='Philadelphia' or City='Trenton');
